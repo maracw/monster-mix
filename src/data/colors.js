@@ -1,0 +1,9 @@
+export const mmRed = '#8C0000';
+export const mmDarkBlue = '#00568C';
+export const mmDarkBlueBorder='#003349';
+export const mmDarkBrown = '#371212';
+export const mmLightRed ='#8C000033';
+export const mmLightBlue='#00568C33';
+export const mmMainFont='Pangolin_400Regular';
+export const mmDisplayFont='MiltonianTattoo_400Regular';
+export const mmDIsplayFont2='ComicNeue_700Bold_Italic';
