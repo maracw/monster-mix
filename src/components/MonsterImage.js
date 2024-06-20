@@ -6,8 +6,10 @@ const width = Dimensions.get('window').width;
 const height= Dimensions.get('window').height/3;  
 
 const MonsterImage = ({id, styleName}) =>{
-
+    const top = "top";
+    const mName = "Dracula";
     const dynamicImage = imageIndex[id];
+
     let dynamicStyle;
     if(styleName==="view"){
         dynamicStyle= styles.viewStyle;
